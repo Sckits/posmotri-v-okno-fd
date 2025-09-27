@@ -74,6 +74,7 @@ ol {
   overflow: hidden;
   z-index: 0;
 }
+
 .result__video-container video,
 .result__video-container img {
   width: 100%;
